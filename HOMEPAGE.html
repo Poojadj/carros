@@ -1,0 +1,96 @@
+<html>
+<head>
+  <title>Carros</title>
+  <link rel="stylesheet" type="text/css" href="HOMEPAGE.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Courgette|Itim|Chewy' rel='stylesheet' type='text/css'>
+  <style>
+    body{
+	  background-image: url("Car Background.jpg");
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 1100px;
+	  position:absolute;
+	}
+	div.base{
+	   position: absolute;
+	   top: 200px;
+	   left: 220px;
+	   width: 1000px;
+	   height: 100px;
+	}
+  </style>
+</head>
+<body>
+  <div class="navigationb">
+  </div>
+  <div class="navigation">
+  <nav>
+      &nbsp &nbsp &nbsp &nbsp <a href="HOMEPAGE.html"> &nbsp &nbsp HOME &nbsp &nbsp </a> |
+      <a href="index.html"> &nbsp &nbsp LOGIN &nbsp &nbsp  </a> |
+      <a href="REVIEW.html"> &nbsp &nbsp REVIEW &nbsp &nbsp </a> |
+      <a href="BOOKING.html"> &nbsp &nbsp BOOK NOW &nbsp &nbsp </a>
+  </nav>
+  </div>
+  <image src="Logo.png" class="imgs"/>
+  <div  class="heading" align="center">
+      <p style="font-size: 65px; font-family: 'Chewy';">CARROS</p>
+  </div>
+  <div class="base" align="center">
+      <p style="font-size: 24px; font-family: 'Chewy';">We take the hassle and haggle out of new car buying by finding you the best car </p>
+  </div>
+  <div class="logosh">
+      <p id="text" style="font-size: 26px;">Click on the Logo to select Company</p>
+  </div>
+  <form action="logos.php" method="post">
+  <div class="logosbox">
+     <input type="image" src="Logos//audi.png" class="a" id="all" name="logo" value="Audi" />
+	 <input type="image" src="Logos//bmw.png" class="b" id="all" name="logo" value="BMW" />
+	 <input type="image" src="Logos//mercedes.png" class="c" id="all" name="logo" value="Mercedes" />
+	 <input type="image" src="Logos//skoda.png" class="d" id="all" name="logo" value="Skoda" />
+	 <input type="image" src="Logos//jaguar.png" class="e" id="all" name="logo" value="Jaguar" />
+	 <input type="image" src="Logos//marutisuzuki.jpg" class="f" id="all" name="logo" value="Maruti" />
+	 <input type="image" src="Logos//toyota.png" class="g" id="all" name="logo" value="Toyota" />
+	 <input type="image" src="Logos//honda.png" class="h" id="all" name="logo" value="Honda" />
+	 <input type="image" src="Logos//hyundai.png" class="i" id="all" name="logo" value="Hyundai" />
+	 <input type="image" src="Logos//mahindra.png" class="j" id="all" name="logo" value="Mahindra" />
+	 <input type="image" src="Logos//nissan.png" class="k" id="all" name="logo" value="Nissan" />
+	 <input type="image" src="Logos//chevrolet.png" class="l" id="all" name="logo" value="Chevrolet" />
+	 <input type="image" src="Logos//renault.png" class="m" id="all" name="logo" value="Renault" />
+	 <input type="image" src="Logos//volkswagen.png" class="n" id="all" name="logo" value="Volkswagen" />
+	 <input type="image" src="Logos//fiat.png" class="o" id="all" name="logo" value="Fiat" />
+	 <input type="image" src="Logos//ford.png" class="p" id="all" name="logo" value="Ford" />
+   </div>
+   </form>
+   <form action="filter.php" method="post">
+   <div class="selectionb">
+   </div>
+   <div class="selection">
+     <h2 id="text">Filters</h2>
+     <p id="text">Select Price (in Rupees)</p>
+	 <input type="radio" name="price" value="a"><b>1,00,000-5,00,000</b></input><br/>
+	 <input type="radio" name="price" value="b"><b>5,00,000-10,00,000</b></input><br/>
+	 <input type="radio" name="price" value="c"><b>10,00,000-30,00,000</b></input><br/>
+	 <input type="radio" name="price" value="d"><b>30,00,000-40,00,000</b></input><br/>
+	 <input type="radio" name="price" value="e"><b>40,00,000-80,00,000</b></input><br/>
+	 <input type="radio" name="price" value="f"><b>80,00,000-10,00,00,000</b></input><br/><br/>
+	 <p id="text">Select Mileage (in km/L)</p>
+	 <input type="radio" name="mileage" value="a"><b>10-15</b></input><br/>
+	 <input type="radio" name="mileage" value="b"><b>15-18</b></input><br/>
+	 <input type="radio" name="mileage" value="c"><b>18-21</b></input><br/>
+	 <input type="radio" name="mileage" value="d"><b>21-25</b></input><br/>
+	 <input type="radio" name="mileage" value="e"><b>25-50</b></input><br/><br/>
+	 <p id="text">Select Seater</p>
+	 <input type="radio" name="seater" value="2"><b>2</b></input><br/>
+	 <input type="radio" name="seater" value="4"><b>4</b></input><br/>
+	 <input type="radio" name="seater" value="5"><b>5</b></input><br/>
+	 <input type="radio" name="seater" value="7"><b>7</b></input><br/><br/>
+	 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input type="submit" value="Submit" class="button"/>
+   </div>
+   </form>
+   <footer>
+     <div>_____________________________________________________________________________________________________________________________________________________________________</div>
+	 <div align="right">Copyrights 2016 | CARROS <br/> Designed by: D J Pooja | Divya Jyothi B N | G Manasa </div>
+   </footer>
+</body>
+</html>

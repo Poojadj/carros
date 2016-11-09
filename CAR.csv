@@ -1,0 +1,171 @@
+Company Name,Model,Engine,Mileage,Special Features,Available Colors,Seater,Price,IMAGES
+
+"FORD","ECOSPORT","1425cc",22.27,"Engine Immobolizer,Seat Belt Warning","Golden Bronze,Mars Red,Diamond White,Chill Meatallic,Smoke Grey,Panther Black",5,692000,"gl//ford" ecosport.jpeg
+
+"FORD","MUSTANG","1654cc",23.8,"Electronic Lime Lock,Selectable Drive,","Absolute Black,Race Red,Oxford White,Yellow White,Magnetie",4,650000,"gl//ford mustang.jpeg"
+
+FORD,ASPIRE,1302cc,25.83,20 Smart Storage Spaces,"Saprkling Gold,Ruby Red,Oxford White,Smoke grey,Ingot Silver",5,"7,92,000",gl//ford aspire.jpg
+
+FORD,FIGO,1487cc,25.8,"LED HeadLamps,Bumpers","Saprkling Gold,Ruby Red,Oxford White,Ingot Silver,Smoke Grey",5,"4,53,000",gl//ford figo.jpg
+
+FIAT,TIPO,1536cc,23.8,"TomTom satellite naviagtion display,Rear view camera","Ambient white,Elba Blue,Metallic Bronze,Volcano Black,Sand Pearl,Minimal grey",5,"13,00,000",gl//fiat tipo.jpg
+
+FIAT,124 SPIDER,1625cc,26,"Sport Mode Selector,Automatic Paddle shifter","Grigio Argentio,Nero Sinema,Red Rosso,Nero Black",2,"78,12,000",gl//fiat 124.jpg
+
+FIAT,PUNTO,1498cc,23,"Climate Control,Electriacl Adjustable Mirrors","Hip Hop Black,Nova White,Oceanic Blue,Tuscan Wine,Exotica Red,Minimal Grey",5,"6,39,000",gl// fiat punto.jpg
+
+FIAT,QUBO,1425cc,21,"VAN Based HVP,Soft suspension","Ruby Red,Oxford White,Ingot Silver,Smoke Grey",4,"4,50,000",gl//fiat qubo.jpg
+
+HYUNDAI,CRETA,1325cc,24.8,"Low Fuel Warning Light,Cup Holders","Red Passion,Pearl Beige,Star Dust,Polar White,Earth Brown,Sleek Silver",5,"9,20,000",gl//hy creta.jpg
+
+HYUNDAI,i10,1254cc,20.6,"6.2 in AVN system,Black and red themed interiors","Star Dust,Polar White,Earth Brown,Sleek Silver,Pure White",5,"5,17,000",gl//hy i10.jpg
+
+HYUNDAI,EON,15400cc,24,"Engine Immobolizer,Rear view camera","Pure White,Sleek Silver,Maharajah Red,Coral White,Ember Grey",5,"4,00,000",gl//hy eon.jpg
+
+HYUNDAI,ELANTRA,1400cc,23.5,"Chrome Outside Door Handles,Safety Escort Lamps","Polar White,Phantom Black,Red Passion,Marina Blue",4,"6,00,000",gl//hy el.jpg
+
+HYUNDAI,LERNA,1600cc,22.6,"Soft suspension,Selectable Drive","Grigio Argentio,Nero Sinema,Sand Pearl,Minimal grey",4,"8,00,000",gl//hy ler.jpg
+
+HYUNDAI,SANTA FE,1582cc,25,"LED HeadLamps,Cup Holders","Wine Red,Twilight Blue,Star Dust,Sleek Silver,Pure White",5,"7,82,000",gl//hy san.jpg
+
+HONDA,AMAZE,1487cc,25,"Electriacl Adjustable Mirrors,Rear view camera","Bluish Titanium,Golden Brown,Carnellan Red Pearl,Alabaster Silver,Urban Titanium",4,"6,90,000",gl//hn amz.jpg
+
+HONDA,ACCORD,1933cc,24,he hybrid powertrain is mated to a CVTÿ,"Crystal Black Pearl, Lunar Silver , Modern Steel , White Orchid Pearl.",5,"37,00,000",gl//hn acc.jpg
+
+HONDA,BRIO,1198cc,19,The headlights have a pearl drop effect,"ÿAlabaster Silver, Rally Red, Teffeta White, Urban Titanium, White Orchid Pearl.",5,"5,00,000",gl//hn brio.jpg
+
+HONDA,JAZZ,1498cc,26,"The front and rear bumpers,Front grille with bolder looking design.","Alabaster Silver, Carnelian Red Pearl, Golden Brown, Sunset Orange, Urban Titanium.",4,"6,45,000",gl//hn jazz.jpg
+
+HONDA,BR-V,1498cc,25,"Automatic climate control,Projector headlamps","Carnelian Red Pearl, Golden Brown, Orchid White Pearl, Taffeta White, Urban Titanium.",7,"13,23,000",gl//hn br.jpg
+
+TOYOTA,NEW FORTUNER,1845cc,26,"Automatic climate control system, Stand alone infotainment system","Carnelian Red Pearl, Golden Brown",7,"35,25,000",gl//to nw.jpg
+
+TOYOTA,CAMRY,2498cc,19,"A touchscreen stereo system,LED high mounted stop light","Dark Brown Mica,Silver Metallic, True Blue Mica, White Pearl Crystal Shine.",5,"35,00,000",gl//to cam.jpg
+
+TOYOTA,ETIOS CROSS,1496cc,24,"ÿSporty side skirts,Bold grille","Celestial Black, Classic Grey, Harmony Beige, Inferno Orange, Symphony Silver",5,"7,10,000",gl//to eri.jpg
+
+TOYOTA,LAND CRUISER,4461cc,14,"18 inch Alloy wheels,Best safety features","Attitude Black, Beige Mica, Beige Mica Metallic, Black, Blue MIca",7,13400000,gl//to land.jpg
+
+NISSAN,TERRANO,1598cc,20,"Silver-finished skid plates,K9K diesel engine","Blade Silver, Bronze Grey, Fire Red, Pearl White, Sandstone Brown, Sapphire Black",5,"9,90,000",gl//ni tr.jpg
+
+NISSAN,MICRA,1461cc,24,"Brake assist (BD),Immobilizer with alarmÿ","ÿAqua Green, Blade Silver, Brick Red, Olive Green, Onyx Black, Storm White, Turquoise Blue.",5,"6,00,000",gl//ni mi.jpg
+
+NISSAN,SUNNY,1498cc,19,"Automatic climate control,Projector headlamps","Onyx Black,Deep Gray,Night Shade,Bronze Grey,Pearl White",5,"8,00,000",gl//ni su.jpg
+
+RENAULT,DUSTER,1461cc ,24,"18 inch Alloy wheels,Best safety features","New Cayenne Orange, Outback Bronze,White, Pearl White, Slate Grey, Woodland Brown.",5,"13,00,000",gl//re dt.jpg
+
+RENAULT,FLUENCE,1461cc,20,"Aerodynamics,Electronic Brake Force Distribution (EBD) ","Ashe Biege, Glaciar White, Pearl Black, Platinum Grey.",5,"16,82,000",gl//re fl.jpg
+
+RENAULT,KOLEOS,2000cc,17,"Projector headlamps,Rear view mirror indicators","Black , Ultra Silver, White Pearl.",5,"28,92,000",gl//re ko.jpg
+
+RENAULT,KWID,1000cc,24,"ÿDigital instrument cluster,Brake assist (BD)","Fiery Red, Ice Cool White, Moonlight Silver, Outback Bronze, Planet Grey.",5,"3,92,000",gl//re kw.jpg
+
+RENAULT,SCALA,1498cc,22,"Integrated roof mounted antenna,Anti-lock Braking System (ABS)","ÿMetallic Blue, Metallic Red, Metallic Silver, Pearl White, Solid Black.",5,"9,58,000",gl//re sc.jpg
+
+RENAULT,LODGY,1461cc,24,"12V charging sockets,EBD (electronic brake-force distribution)","Absolute Steel, Indigo Breeze, Moonlight Silver, Pearl White, Planet Grey, Royal Orchid.",7,"11,00,000",gl//re lo.jpg
+
+MAHINDRA,BOLERO,2523cc,16,"New large headlamps,Engine generates 63bhp of power 180Nm of torque","Diamond White, Java Brown, Rocky Beige, Silver.",7,"8,00,000",gl//ma bo.jpg
+
+MAHINDRA,e20,Electric,30,"E20is powered by a 48 V lithium-ion battery,Regenerative braking system","Arctic Silver, Coral Blue, Eco Green, Oceanic White, Spanish Red, Sunfire Yellow.",4,"8,90,000",gl//ma e20.jpg
+
+MAHINDRA,NUVOSPORT,Automatic,17,"Five-speed manual gearbox,Rear view mirror indicators","Diamond White, Fiery Black, Mist Silver, Molten Red, Regal Blue, Rust Orange.",7,"10,00,000",gl//ma nu.jpg
+
+MAHINDRA,SCORPIO,2609cc,17,"New chrome grille,Headlamps with LEDs.","Diamond White, Fiery Black, Mist Silver, Molten Red, Regal Blue.",7,"16,00,000",gl//ma sc.jpg
+
+MAHINDRA,THAR,2523cc,13,"Recessed headlamps,Side steps,Rear bumpers,Rear footsteps","ÿChampagne,Diamond White,Fiery Black,Mist Silver,Rocky Beige, Sunny Beige.",5,"8,85,000",gl//ma th.jpg
+
+MAHINDRA,XYLO,2498cc,15,"ÿ2.2-litre mHawk diesel unit,93.7bhp,2.5-litre mDI CRDe diesel engine.","Diamond White, Dolphin Grey, Java Brown, Mist Sliver, Toreador Red.",7,"11,60,000",gl//ma xy.jpg
+
+VOLKSWAGEN,AMEO,1498cc,20,ABS and dual front airbags,"Bule Silk , Candy White, Carbon Steel , Reflex Silver , Toffee Brown.",5,"9,32,000",gl//vo am.jpg
+
+VOLKSWAGEN,BEETLE,1395cc,17,"Anti-lock braking system (ABS),Electronic brake-force distribution (EBD)","Blue Silk, Habanero Orange, Oryx White, Tornado Red.",4,"26,61,000",gl//vo be.jpg
+
+VOLKSWAGEN,CROSS POLO,1498cc,20,"Silver skid plate at the bottom,Steering-mounted audio controls","Deep Black, Flash Red, Reflex Silver.",5,"9,03,000",gl//vo cr.jpg
+
+VOLKSWAGEN,GTI,1798cc,16,"Anti-skid control,Traction control.","Black, Flash Red, Pure White, Reflex Silver.",5,"26,00,000",gl//vo gt.jpg
+
+VOLKSWAGEN,JETTA,1968cc,19,"Electronic differential lock,Six airbags,Transmission guard","Blue Silk, Deep Black, Platinum Grey, Pure White, Reflex Silver, Toffee Brown.",5,"20,89,000",gl//vo je.jpg
+
+VOLKSWAGEN,POLO,1598cc,20,"ABS with EBD,Ending immobiliser, central locking","Candy White, Carbon Steel, Copper Orange, Flash Red, Reflex Silver.",5,"8,90,000",gl//vo po.jpg
+
+CHEVROLET,BEAT,1199cc,25,"5-speed manual transmission,57.6bhp","Caviar Black, Cocktail Green, Linen Beige, Sandrift Grey, Summit White, Super Red",5,"7,00,000",gl//ch be.jpg
+
+CHEVROLET,CRUZE,1998cc,17,"LTZ automatic,LT and LTZ  with capacity of breaching the 100 Kmph","Burnt Coconut, Caviar Black Diamond White,Sand Drift Grey, Summit White,Velvet Red.",5,"17,00,000",gl//ch cr.jpg
+
+CHEVROLET,ENJOY,1399cc,17,"Power steering,Ffront and rear power windows,Day and night inside rear view mirrorÿ","Caviar Black, Linen Beige,SandDrift Grey,Summit White,Switchblade Silver,Velvet Red.",7,"7,24,000",gl//ch en.jpg
+
+CHEVROLET,SAIL,1248cc,22,"Alloy wheels,Chromed fog lamp. ","Linen Beige, Sand Drift Grey, Summit White, Switch Blade Silver, Velvet Red.",5,"8,24,000",gl//ch sa.jpg
+
+CHEVROLET,TAVERA,2499cc,14,"Front and rear power windows,Three-spoke steering wheelÿ","Caviar Black,Linen Beige,Sandrift Grey,Summit White, Switchbleade Silver",7,"11,00,000",gl//ch ta.jpg
+
+CHEVROLET,TRAILBLAZER,2776cc,12,"LED brake lights with jewel effect,Rear windscreen","Black Sapphire, Blue Mountain, Satin Steel Grey, Sizzle Red, Summit White",7,"24,00,000",gl//ch tr.jpg
+
+AUDI,A3,1968cc,18,Touch pad on the rotary knob capable of identifying handwriting with accuracy.,"Lotus grey, Misano red, pearl effect , Monsoon grey, Mythos black, Scuba blue",5,"45,00,000",gl//au a3.jpg
+
+AUDI,A4,1395cc,17,"Frugal 1.4-litre TSI engine,177bhp of power and 380Nm of torque","Floret Silver, Ibis white, Moonshine Blue, Mythos black, Tango Red.",5,"39,00,000",gl//au a4.jpg
+
+AUDI,A6,1968cc,16,"Electronic stabilization control (ESC),ISOFIX child seat mounting","Dakota Grey, Garnet Red, Havanna Black, Ibis White, Ice Silver Metallic",5,"51,00,000",gl//au a6.jpg
+
+AUDI,R8,5208cc,12,"5204 cc generating 525 bhp and 570 bhp of peak power,","Brilliant Red, Daytona Grey,Pearl Effect, Ibis White,Phantom Black, Sepang blue,pearl effect",2,24100000,gl//au r8.jpg
+
+AUDI,Q7,2967cc,14,"TFT screen,Cocoon of eight airbags","Ice Silver, Orca Black, Teak Brown.",7,"80,00,000",gl//au q7.jpg
+
+AUDI,TT,1984cc,12,"ÿ2.0L TFSI petrol engine,churns out 230PS of power and 350Nm of torque","Ibis White, Ice Silver, Oolong Grey, Phantom Black, Sahara Silver, Scuba Blue, Volcano Red.",2,"63,00,000",gl//au tt.jpg
+
+AUDI,S5 SPORTBACK,2995cc,12,"Excellent handling,Lesser emissions,High fuel economy","Brilliant Red, Ibis White, Ice Silver, Moonlight Blue, Phantom Black, Teak Brown.",5,"66,00,000",gl//au s5.jpg
+
+JAGUAR,F-TYPE,5000cc,12,5.0-litre V8 which belts out 542bhp of power and a torque output of 680Nm,"Lunar Grey Metallic, Rhodium Silver Metallic, Salsa Red, Stratus Grey, Ultimate Black.",2,"1,50,000",gl//ja ft.jpg
+
+JAGUAR,XE,1999cc,13,"LEDs on the headlamps,Fresh design,Styling","Italian Racing Red, Odyssey Red, Polaris White, Rhodium Silver, Ultimate Black.",5,"48,00,000",gl//ja xe.jpg
+
+JAGUAR,F-PACE,2993cc,19," touchscreen infotainment system,Contrast coloured seats,Full-digital instrument cluster,Four-zone climate control","Ebony Black, Glacier White, Polaris White, Quartzite, Ultimate Black.",5,"1,10,000",gl//ja fp.jpg
+
+JAGUAR,XF,1999cc,13,"LED daytime running lights,177bhp of power and 430Nm of torque","Ebony Black, Glacier White, Polaris White, Quartzite",5,"60,00,000",gl//ja xf.jpg
+
+MARUTI,ALTO 800,796cc,20,"Five-speed manual gearbox,Power of 47bhp at 6000rpm and 69Nm of torque","Cerulean Blue, Mojito Green, New Blazing Red, New Granite Grey, Silky Silver, Superior White.",4,"3,72,000",gl//ma al.jpg
+
+MARUTI,CELERIO,998cc,28,Maximum torque of 90Nm at 3500rpm,"Blazing Red, Cerulean Blue, Glistening Grey, Pearl Artic White, Silky Silver, Sunshine Ray.",5,"6,00,000",gl//ma ce.jpg
+
+MARUTI,CIAZ,1973cc,26,"Design,Engine power and efficiency,Service cost and resale","Metallic Silky Silver, Pearl Metallic Dignity Brown, Pearl Midnight Black, Pearl Sangria Red",5,"10,50,000",gl//ma ci.jpg
+
+MARUTI,BALENO,1248cc,27,Touchscreen with Apple CaPlay,"ÿAutumn Orange, Fire Red, Granite Gray, Pear Arctic White, Premium Silver",5,"8,36,000",gl//ma ba.jpg
+
+MARUTI,EECO,1196cc,20,13-inches 155 R13 LT tubeless tyres,"Metallic Glistening Grey, Metallic Midnight Black, Metallic Sillky Silver, Superior White.",5,"4,28,000",gl//ma ee.jpg
+
+MARUTI,RITZ,1248cc,22,1197cc gasoline motor churns out a maximum power of 85.80bhp at 6000rpm with a torque of 114Nm at 4000rpm,"New Breeze Blue, New Granite Grey, New Mystique Red, Silky Silver, Superior White.",7,"6,00,000",gl//ma ri.jpg
+
+MARUTI,S-CROSS,1598cc,24,1.3-litre DDiS and a new 1.6-litre DDiS Multijet diesel engine,"Granite Grey, Pear Arctic White, Premium Silky Silver, Urban Blue.",5,"12,00,000",gl//ma sc1.jpg
+
+MARUTI,SWIFT,1248cc,25,"In-dash music system, Steering mounted audio controls and 60:40 rear seat split","Glistening Grey Metallic, Granite Grey, Metallic Silky Silver, Mysterious Violet, Pearl Metallic Arctic White.",5,"7,44,000",gl//ma sw.jpg
+
+MARUTI,WAGON,998cc,27,"The Wagon R front wheels have disc brakes, while the rear are drums","Glistening Grey Metallic, Granite Grey, Metallic Silky Silver, Mysterious Violet",5,"5,16,000",gl//ma wa.jpg
+
+MERCEDES, BENZ A-CLASS,2143cc,16,107.3bhp of power at 3200-4400rpm along with a top torque of 200Nm at 1250-4000rpm,"Cirrus White, Elbaite Green, Jupiter Red, Polar Silver.",5,"28,45,000",gl//me a.jpg
+
+MERCEDES,BENZ CLA,2143cc,17,"HD infotainment display powered by the latest 5thÿgeneration software, COMAND computer","Cirrus White, Jupiter Red, Mountain Grey, Polar Silver.",5,"70,00,000",gl//me cl.jpg
+
+MERCEDES,BENZ GLC,2143cc,17,TheGLC300 is powered by a 2.0-litre forced induction petrol engine,"Diamond White Bright, Citrine Brown, Hyacinth Red Metallic, Iridium Silver",5,"50,00,000",gl//me gl.jpg
+
+MERCEDES,E CLASS,5461cc ,17,"204bhp of power at 4,200rpm and 500Nm of torque at 1,600rpm","Dolomite Brown, Iridium Silver, Obsidian Black, Palladium Silver, Polar White.",5,"97,00,000",gl//me ec.jpg
+
+MERCEDES,S CLASS,5980cc,12,4.7-litre bi-turbo V8 petrol engine,"Iridium Silver, Obsidian Black, Palladium Silver, Polar White.",4,"10,00,000",gl//me sc.jpg
+
+SKODA,OCTAVIA,1968cc,19,"138bhp and 250Nm of torque, the powerful, 1.8L,Unit develops 177bhp of power","Candy White, Cappuccino Beige, Magic Black, Race Blue, Rio Red.",5,"22,00,000",gl//sk oc.jpg
+
+SKODA,RAPID,1598cc,19,1.6-litre petrol engine generates around 104bhp of power and 153Nm of torque,"Candy White, Cappuccino Beige, Carbon Steel, Flash Red, Silk Blue.",5,"13,00,000",gl//sk ra.jpg
+
+SKODA,SUPERB,1968cc,18,Loaded with multiple airbags and ABS,"Magic Pearl Effect, Business Grey, Candy White, Magnetic Brown.",5,"31,00,000",gl//sk su.jpg
+
+SKODA,YETI,1968cc,19,Power of 138bhp with a peak torque of 320Nm,"Black Magic, Brilliant Silver, candy White, Mato Brown",5,"23,50,000",gl//sk ye.jpg
+
+BMW,1 SERIES,1995cc,12,1.6-liter motor that creates 138PS and 220Nm of torque,"Melbourne Red, Mineral Grey, Mineral White, Orion Silver, Sparkling Bronze.",4,"31,00,000",gl//bm 1.jpg
+
+BMW,3 SERIES,1998cc,22,Peak power output of this engine stands at 184 bhp with a torque output of 380 Nm.,"Havanna, Impherial Blue Brilliant Effect, Melbourne Red, Mineral Grey.",5,"46,00,000",gl//bm 3.jpg
+
+BMW,i8,1499cc,45,Automatic gearbox offers 131bhp with 250Nm of torque.,"Crystal White Pearl, Ionic Silver , Protonic Blue, Sophisto Grey Brilliant Effect.",4,21400000,gl//bm i8.jpg
+
+BMW,M3,2979cc,12,3.0 I M TwinPower Turbo inline 6-cylinder engine,"Black Sapphire, Mineral Grey, Mineral White, Silver Stone, Yas Marin Blue.",5,12600000, gl//bm m3.jpg
+
+BMW,X1,1995cc,20,2.0-litre diesel engine that churns about189bhp of power,"Mediterranean Blue, Mineral Grey, Mineral White, Platinum Silver, Sparkling Brown.",5,"41,00,000",gl//bm x1.jpg
+
+BMW,Z4,2979cc,12,"3.0-litre, 24V DOHC direct-injection petrol engine","Deep Sea Blue Metallic, Havanna, Orion Silver Metallic, Space Grey Metallic, Titanium Silver metallic.",2,"78,00,000",gl//bm z4.jpg

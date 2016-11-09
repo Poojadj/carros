@@ -1,0 +1,189 @@
+<html>
+<head>
+  <title>Carros</title>
+  <link rel="stylesheet" type="text/css" href="BOOKING.css"/>
+  <link href='http://fonts.googleapis.com/css?family=Courgette|Itim|Chewy' rel='stylesheet' type='text/css'>
+  <style>
+    body{
+	  background-image: url("Car Background.jpg");
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  height: 1400px;
+	  position:absolute;
+	}
+	aside{
+	  margin-top: 0px;
+	  float: right;
+	  width: 400px;
+	}
+	div.text{
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	width: 700px;
+	height: 600px;
+	font-weight: bold;
+	font-family: 'Courgette';
+	font-size: 18px;
+	font-weight: bold;
+}
+div.background{
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	width: 900px;
+	height: 1200px;
+	background-color: #FFEFD5;
+	opacity: 0.3;
+}
+  </style>
+  <script>
+    var st,ct;
+	var ctarr = [["A3","A4","A6","R8","Q7","TT","S5 sportback"], ["1 series","3 series","i8","M3","X1","Z4"]
+,["benz-a-class","benz cla","benz cla","e class","s class" ],["octavia","rapid","superb","yeti"],
+["F type","XE","F-pace","XF"],
+["alto 800","celerio","ciaz","baleno","eeco","ritz","s cross","swift","wagon"],
+["New fortuner","camry","Etios cross","Land crusier"],["Amaze","Accord","Brio","Jazz","BR-V"]
+,["Creta","i10","EON","Elantra","Lerna","Santa FE"],["Bolera","e20","Nuvosport","Scorpio","Thar","Xylo"]
+,["Terrano","Micra","Sunny"],["beat","cruze","enjoy","sail","tavera","trailblazer"],
+["Duster","Fluence","Koleos","Kwid","Scala","Lodgy"],["Ameo","Beetle","Cross polo","GTI","Jetta","polo"],
+["Tipo","124 Spider","Punto","Qubo"],["Ecosport","Mustang","Aspire","Figo"]];
+	function addoptions(i){
+		while(ct.childElementCount>0)
+			ct.removeChild(ct.children[0]);
+		for ( ci in ctarr[i] ){
+			var c = document.createElement("option");
+			c.name=ctarr[i][ci];
+			c.value=ctarr[i][ci];
+			c.innerText=ctarr[i][ci];
+			c.text=ctarr[i][ci];
+			/*for (var i in c)
+				if (typeof(c[i])!="object"&&typeof(c[i])!="function")
+					document.write(i+ " : "+c[i]+"<br/>");*/
+			ct.appendChild(c);
+		}
+	}
+	function showct(){
+		st = this;
+		ct = document.getElementById("ct");
+		if (st.value=="audi")
+			index=0;
+		else if (st.value=="bmw")
+			index=1;
+		else if (st.value=="mercedes")
+			index=2;
+		else if (st.value=="scoda")
+			index=3;
+		else if (st.value=="jaguar")
+			index=4;
+		else if (st.value=="marutisuzuki")
+			index=5;
+		else if (st.value=="toyota")
+			index=6;
+		else if (st.value=="honda")
+			index=7;
+		else if (st.value=="hyundai")
+			index=8;
+		else if (st.value=="mahindra")
+			index=9;
+		else if (st.value=="nissan")
+			index=10;
+		else if (st.value=="chervolet")
+			index=11;
+		else if (st.value=="renault")
+			index=12;
+		else if (st.value=="volkswagen")
+			index=13;
+		else if (st.value=="fiat")
+			index=14;
+		else if (st.value=="ford")
+			index=15;
+		addoptions(index);
+	}
+	function new1(){
+		st = document.querySelectorAll("#st");
+		for (var s in st)
+			st[s].onclick=showct;
+	}
+  </script>
+</head>
+<body onload="new1()">
+  <div class="navigationb">
+  </div>
+  <div class="navigation">
+  <nav>
+      &nbsp &nbsp &nbsp &nbsp <a href="HOMEPAGE.html"> &nbsp &nbsp HOME &nbsp &nbsp </a> |
+      <a href="index.html"> &nbsp &nbsp LOGIN &nbsp &nbsp  </a> |
+      <a href="REVIEW.html"> &nbsp &nbsp REVIEW &nbsp &nbsp </a> |
+      <a href="BOOKING.html"> &nbsp &nbsp BOOK NOW &nbsp &nbsp </a>
+  </nav>
+  </div>
+  <div class="background">
+  </div>
+  <form action="" >
+  <div class="text">
+      <h3>Car Details</h3>
+	  <aside>
+	  <p>Select Model</p>
+	  <select name="ct" id="ct">
+		<option name="na" value="na">Select</option>
+	  </select>
+	  <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+	  <p>Select Color</p>
+	  <select name="color">
+	    <option value="white">White</option>
+		<option value="black">Black</option>
+		<option value="red">Red</option>
+		<option value="grey">Grey</option>
+		<option value="silver">Silver</option>
+		<option value="blue">Blue</option>
+	    <option value="brown">Brown</option>
+		<option value="green">Green</option>
+		<option value="bronze">Bronze</option>
+		<option value="yellow">Yellow</option>
+		<option value="gold">Gold</option>
+		<option value="orange">Orange</option>
+	  </select>
+	  </aside>
+	  <p>Select Company</p>
+	  <input type="radio" name="car" value="audi" id="st" />Audi<br/>
+	<input type="radio" name="car" value="bmw" id="st" />BMW<br/>
+	<input type="radio" name="car" value="mercedes" id="st" />Mercedes<br/>
+	<input type="radio" name="car" value="scoda" id="st" />Skoda<br/>
+	<input type="radio" name="car" value="jaguar" id="st" />Jaguar<br/>
+	<input type="radio" name="car" value="marutisuzuki" id="st"/>Maruti Suzuki<br/>
+	<input type="radio" name="car" value="toyota" id="st" />Toyota<br/>
+	<input type="radio" name="car" value="honda" id="st"/>Honda<br/>
+	<input type="radio" name="car" value="hyundai" id="st" />Hyundai<br/>
+	<input type="radio" name="car" value="mahindra" id="st" />Mahindra<br/>
+	<input type="radio" name="car" value="nissan" id="st" />Nissan<br/>
+	<input type="radio" name="car" value="chevrolet" id="st"/>Chevrolet<br/>
+	<input type="radio" name="car" value="renault" id="st" />Renault<br/>
+	<input type="radio" name="car" value="volkswagen" id="st" />Volkswagen<br/>
+	<input type="radio" name="car" value="fiat" id="st" />Fiat<br/>
+	<input type="radio" name="car" value="ford" id="st" />Ford<br/><br/>
+	  	  <br/>
+	  <h3>Customer Details</h3>
+	  <input type="text" placeholder="First Name" required />
+	  <input type="text" placeholder="Last Name" required /><br/><br/>
+	  <input type="email" placeholder="Email Address" required /><br/><br/>
+	  <input type="text" placeholder="Phone Number" required max=10/><br/><br/>
+	  <input type="text" placeholder="City" required/>
+	  <input type="text" placeholder="Area" required/><br/><br/>
+	  <input type="text" placeholder="Street" required/>
+	  <input type="text" placeholder="Pincode" required max=6/><br/><br/>
+	  
+	  <h3>Payment Options</h3>
+	  <input type="radio" name="pay" value="visa">Visa</input><br/>
+	  <input type="radio" name="pay" value="cod">COD</input><br/>
+	  <input type="radio" name="pay" value="dc">Debit Card</input><br/>
+	  <input type="radio" name="pay" value="cc">Credit Card</input><br/>
+	  
+	  <br/> <br/> 
+	  <input type="submit" value="Submit" />
+	  <input type="reset" value="Reset" /><div><br/>
+  </div>
+  <form>
+</body>
+</html>

@@ -1,0 +1,38 @@
+WEB TECHNOLOGY MINIPROJECT
+ 
+USN:                                   NAMES:
+01FB15ECS083                         POOJA D.J
+01FB15ECS099                         G.MANASA
+01FB15ECS096                         DIVYAJYOTHI B.N
+
+DESCRIPTION:
+
+Topic of the miniproject:
+
+ONLINE BOOKING OF CARS
+
+
+This website helps you to know about 16 famous cars brands in India which includes major companies like Ford,Fiat,Maruthi suzuki etc.. . The  website is built using technologies such as Html , PHP, Javascript, CSS3 and SQL.It also uses packages such as google fonts.
+Cars have been sorted according to the Brand, price,accomodation and mileage from the database using PHP and is displayed to the user. The user can choose the car of his own choice.It also allows the user to book the car online.User can sign up and create an account. Login portal allows the user to login into the website with a user name and password.
+User can give his opinion about  the purchase through the website in the feed back or review forms. It stores and diplays the opinion of various  vistors of the website.
+It provides a fair chance to append the new car models and provide  further information about the existing car models for the future development of the website.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            
